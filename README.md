@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Luong NGUYEN Van
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning embedded
 
 
 <!---
